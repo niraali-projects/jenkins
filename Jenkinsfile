@@ -4,7 +4,7 @@ node{
     
     stage('CheckoutCode')
    {
-	git credentialsId: '91623ff1-a5ae-475a-84ac-aac307efc4ec', url: 'https://github.com/niraali-projects/jenkins.git'
+   git credentialsId: '91623ff1-a5ae-475a-84ac-aac307efc4ec', url: 'https://github.com/niraali-projects/jenkins.git'
    }
     
     stage('Build')
