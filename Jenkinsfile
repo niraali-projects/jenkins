@@ -33,5 +33,4 @@ node{
    { 
      emailext body: 'Build is successfully deployed', subject: 'Build status ', to: 'gopalak33333@gmail.com'
    }
-
 }
