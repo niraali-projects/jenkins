@@ -38,24 +38,24 @@
 		</dependency>
 	</dependencies>
 	
-	<!-- 
+
 	 
 	<distributionManagement>
 	
 		<repository>
 			<id>nexus</id>
 			<name>Niraali Studios Release</name>
-			<url>http://13.235.246.226:8081/repository/springboot-release/</url>
+			<url>http://13.233.204.182:8081/repository/springboot-release/</url>
 		</repository>
  		<snapshotRepository>
 			<id>nexus</id>
 			<name>Niraali Studios Snapshot</name>
-			<url>http://13.235.246.226:8081/repository/springboot-snapshot/</url>
+			<url>http://13.233.204.182:8081/repository/springboot-snapshot/</url>
 		</snapshotRepository>
 
 	</distributionManagement>
-	
-	 -->
+
+ 	
 
 	<build>
 		<plugins>
