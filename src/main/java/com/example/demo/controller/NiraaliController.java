@@ -12,5 +12,4 @@ public class NiraaliController {
 	public String displayData() {
 		return "Welcome to spring boot and tomcat integration externally";
 	}
-
 }
